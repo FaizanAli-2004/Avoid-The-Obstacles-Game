@@ -3,6 +3,10 @@ Welcome to **Avoid the Obstacles**, a 2D game developed in Java using the Proces
 while incoming obstacles move in various directions. 
 Your goal: survive for 20 second by dodging obstacles and try to collect many scores that comes your way! You have total 4 lives
 
+## 🎥 Demo
+🎮 **Watch Gameplay:** [▶️ YouTube Demo](https://youtube.com/shorts/m6BCYhQ7F1Y?feature=share)
+*(Unlisted YouTube video — showcases full gameplay and mechanics.)*
+
 ## 🎮 Gameplay Overview
 - The player remains in the **center** of the screen.
 - Pressing **arrow keys** (UP, DOWN, LEFT, RIGHT) shifts the entire game world (obstacles move accordingly).
